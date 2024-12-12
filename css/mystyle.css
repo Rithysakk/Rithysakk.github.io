@@ -1,0 +1,9 @@
+p {
+    color: brown;
+}
+p#email {
+    color: green;
+}
+.mobile {
+    color: aqua;
+}
